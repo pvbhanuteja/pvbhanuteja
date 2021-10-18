@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bhanu
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning RL
-- I’m looking to collaborate on semantic segmentation
 - How to reach me https://www.linkedin.com/in/pvbhanuteja/
 
 <!---
