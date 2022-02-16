@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhanu
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning RL
+- 🌱 I’m currently doing my masters at Texas A&M University.
 - How to reach me https://www.linkedin.com/in/pvbhanuteja/
 
 <!---
